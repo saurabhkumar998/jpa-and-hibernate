@@ -1,0 +1,5 @@
+insert into course values (2, 'Learn Azure', 'in28minutes');
+
+select * from course;
+
+delete from
